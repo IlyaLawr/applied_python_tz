@@ -1,1 +1,1 @@
-# applied_python_tz
+Репозиторий содержит выполненные задания с https://github.com/VadimPushtaev/applied-python
