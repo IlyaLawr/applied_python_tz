@@ -13,7 +13,7 @@ from server import TaskQueueServer
 
 class ServerBaseTest(unittest.TestCase):
     def setUp(self):
-        self.server = subprocess.Popen(['python', 'homeworks\\task_queue\\server.py'])
+        self.server = subprocess.Popen(['python', 'C:\\Users\\Ilya\\Desktop\\applied_python_tz\\task_queue\\server.py'])
         # даем серверу время на запуск
         time.sleep(0.5)
 
